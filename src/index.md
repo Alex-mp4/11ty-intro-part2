@@ -23,7 +23,7 @@ if (character.exists == true) {
 
 [Klicka här](https://youtu.be/Atx5pXwJORU)
 
-{% image "/images/legitjag.png", "Alexandro", "400px", "auto" %}
+{% image "./src/images/spiritanimal.jpg", "My spirit animal", "(min-width: 30em) 50vw, 100vw" %}
 
 ![yo](/images/legitjag.png)
 
